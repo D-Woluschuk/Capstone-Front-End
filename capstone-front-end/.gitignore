@@ -35,5 +35,5 @@ yarn-error.log*
 next-env.d.ts
 
 # jetbrains
-.idea/vcs.xml
-.idea/workspace.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
